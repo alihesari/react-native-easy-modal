@@ -7,7 +7,7 @@ class Modalbox extends Component {
     animation: PropTypes.string
   };
 
-  defaultProps = {
+  static defaultProps = {
     animation: "fade"
   };
 
