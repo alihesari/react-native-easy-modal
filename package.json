@@ -1,7 +1,7 @@
 {
   "name": "react-native-modalbox",
   "version": "1.0.0",
-  "description": "A simple <Modal/> component for react-native for Android and IOS",
+  "description": "A simple <Modal/> component for React-native, support Android and IOS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
