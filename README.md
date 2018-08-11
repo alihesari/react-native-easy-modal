@@ -10,7 +10,7 @@ npm install react-native-easy-modal@latest --save
 ```jsx
 <Button onPress={() => this.refs.modal1.toggleVisible()}>Basic modal</Button>
 
-<Modalbox ref="modal1" modalVisible={this.state.buyModalVisible}>
+<Modalbox ref="modal1">
     <Text>test</Text>
 </Modalbox>
 ```
