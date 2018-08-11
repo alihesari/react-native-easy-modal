@@ -1,0 +1,30 @@
+{
+  "name": "react-native-modalbox",
+  "version": "1.0.0",
+  "description": "A simple <Modal/> component for react-native for Android and IOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alihesari/react-native-modalbox.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "modal",
+    "box",
+    "modalbox",
+    "window",
+    "swipe"
+  ],
+  "author": "Ali Hesari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alihesari/react-native-modalbox/issues"
+  },
+  "homepage": "https://github.com/alihesari/react-native-modalbox#readme"
+}
