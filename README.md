@@ -1,5 +1,10 @@
-# react-native-modal
+# react-native-easy-modal
 A simple <Modal/> component for React-native, support Android and IOS
+
+## Install
+```
+npm install react-native-easy-modal@latest --save
+```
 
 ## Usage example
 ```jsx
