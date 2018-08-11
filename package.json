@@ -1,5 +1,5 @@
 {
-  "name": "react-native-modalbox",
+  "name": "react-native-easy-modal",
   "version": "1.0.0",
   "description": "A simple <Modal/> component for React-native, support Android and IOS",
   "main": "index.js",
