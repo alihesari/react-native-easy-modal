@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/alihesari/react-native-modalbox/issues"
   },
-  "homepage": "https://github.com/alihesari/react-native-modalbox#readme"
+  "homepage": "https://github.com/alihesari/react-native-modalbox#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  }
 }
