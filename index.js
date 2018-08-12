@@ -34,6 +34,7 @@ class Modalbox extends Component {
           animationType={this.props.animation}
           transparent
           visible={this.state.modalVisible}
+          supportedOrientations={['portrait', 'landscape']}
           onRequestClose={() => {
             this.setState({ modalVisible: false });
           }}
