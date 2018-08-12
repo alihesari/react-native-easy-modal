@@ -3,7 +3,7 @@ import React, { Component } from "react";
 import { View, Modal, TouchableOpacity, StyleSheet } from "react-native";
 
 class Modalbox extends Component {
-  propTypes = {
+  static propTypes = {
     animation: PropTypes.string
   };
 
