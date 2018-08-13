@@ -14,3 +14,9 @@ npm install react-native-easy-modal@latest --save
     <Text>test</Text>
 </Modalbox>
 ```
+
+## Properties
+
+| Prop  | Default  | Type | Allowed values | Description | Required
+| :------------ |:---------------:| :---------------:| :-----| :-----| :-----|
+| animation | fade | `string` | none, slide, fade | This prop controls how the modal animates. | NO
