@@ -19,4 +19,4 @@ npm install react-native-easy-modal@latest --save
 
 | Prop  | Default  | Type | Allowed values | Description | Required
 | :------------ |:---------------:| :---------------:| :-----| :-----| :-----|
-| animation | fade | `string` | none, slide, fade | This prop controls how the modal animates. | NO
+| animation | fade | string | none, slide, fade | This prop controls how the modal animates. | NO
