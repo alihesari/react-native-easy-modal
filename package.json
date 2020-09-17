@@ -24,7 +24,6 @@
     "window",
     "swipe"
   ],
-  "author": "Ali Hesari",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/alihesari/react-native-modalbox/issues"
